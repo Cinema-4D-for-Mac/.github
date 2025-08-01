@@ -1,6 +1,6 @@
-# Cinema 4D Mac Download - Professional 3D Design Software
+# Cinema 4D for Mac Download - Professional 3D Design Software
 
-![Cinema 4D Screenshot](https://static.macupdate.com/screenshots/312235/m/cinema-4d-screenshot.png)
+![Cinema 4D Screenshot](https://static.filehorse.com/screenshots-mac/photo-and-design/cinema-4d-screenshot-01.jpg)
 
 ---
 
@@ -29,7 +29,7 @@ Key capabilities include:
 
 With its MoGraph toolset for procedural animation and motion graphics, Cinema 4D has become an essential tool for creative professionals worldwide.
 
-![Cinema 4D Workspace](https://static.macupdate.com/screenshots/312237/m/cinema-4d-screenshot.png)
+![Cinema 4D Workspace](https://i.ytimg.com/vi/bXG85MoRHvo/maxresdefault.jpg)
 
 ---
 
